@@ -417,7 +417,54 @@ body {
 .farm {
     margin-top: 37px;
     margin-right: 50px;
+    margin-bottom: 68.58px;
 }
+
+.footer-farm {
+    position: absolute;
+    z-index: -1;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 95px;
+    margin-right: 95px;
+    margin-top: 127px;
+}
+
+.email {
+    display: flex;
+}
+
+.newsletter {
+    color: #ffffff;
+}
+
+.newsletter h1 {
+    margin-bottom: 20px;
+    font-size: 36px;
+    font-weight: 600;
+}
+
+.newsletter p {
+    margin-bottom: 20px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.social {
+    display: flex;
+    margin-top: 30px;
+    gap: 1rem;
+}
+
+.social img {
+    background: #000000;
+    border-radius: 10px;
+    padding: 0.2rem;
+}
+
 
 
 
